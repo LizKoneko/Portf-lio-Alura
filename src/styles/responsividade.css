@@ -1,0 +1,55 @@
+/* o parenteses antes das chaves representa uma condição */
+@media (max-width: 1200px) {
+    .cabecalho {
+        padding: 10% 0 2%;
+    }
+
+    .cabecalho__menu{
+        justify-content: center;
+    }
+    
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao__conteudo{
+        width: auto;
+    }
+}
+
+/* @media (min-width: 480px ) and (max-width: 800px) serve para definir um tamanho mínimo e um máximo que o dispositivo deve ter para o layout ser aplicado */
+
+@media (max-width: 800px){
+    .apresentacao__conteudo__lista {
+        padding: 1% 10% 1% 13%;
+    }
+
+    .apresentacao__conteudo__texto{
+        padding: 2% 10%;
+    }
+}
+
+@media (max-width: 500px){
+    .cabecalho__menu{
+        gap: 25px;
+        padding-left: 3%;
+    }
+
+    .apresentacao__links__navegacao{
+        width: 80%;
+    }
+
+    .apresentacao__imagem{
+        width: 60%;
+    }
+
+    .apresentacao__conteudo__titulo-curriculo{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .apresentacao__conteudo__titulo-curriculo__imagem{
+        width: 55%;
+    }
+}

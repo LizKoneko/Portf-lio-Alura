@@ -2,7 +2,7 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![imagem](https://github.com/LizKoneko/portfolio/assets/127269163/6954dba6-7c8a-47ab-98da-892011156ea6)
+![Captura de tela](https://github.com/LizKoneko/portfolio/assets/127269163/1ad26a0a-e249-42b1-87b3-4c83fb3b2b4d)
 
 ## Ferramentas utilizadas:
 
